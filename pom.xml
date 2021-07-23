@@ -267,5 +267,17 @@
 			<url>https://maven.pkg.github.com/wkrzywiec/NoticeBoard</url>
 		</repository>
 	</distributionManagement>
+	
+	<distributionManagement>
+   <repository>
+     <id>hpcloud155</id>
+     <name>GitHub hpcloud155 Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/hpcloud155/NoticeBoard</url>
+   </repository>
+</distributionManagement>
+	
+	
+	
+	
 
 </project>
