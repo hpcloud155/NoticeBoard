@@ -230,7 +230,7 @@
 				<sonar.inclusions>src/main/java/**,src/main/resources/**</sonar.inclusions>
 				<sonar.exclusions>${code.coverage.exclusions}</sonar.exclusions>
 		
-				<sonar.projectKey>hpcloud155_NoticeBoard</sonar.projectKey>
+				<sonar.projectKey>NoticeBoard</sonar.projectKey>
   				<sonar.organization>hpcloud155</sonar.organization>
 				
 				
