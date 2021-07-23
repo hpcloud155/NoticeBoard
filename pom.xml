@@ -8,8 +8,6 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	
-	
 	<groupId>com.wkrzywiec.medium</groupId>
 	<artifactId>noticeboard</artifactId>
 	<version>0.0.10</version>
